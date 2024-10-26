@@ -15,9 +15,10 @@ Definindo: Dentro do componente Home, criamos uma constante chamada fruits, que 
 Para executar a aplicação é necessário ter instalado um navegador como chrome, firefox ou opera para vizualizar a pagina e ter instalado o next.js e o node.js.
 Basta fazer download, entrar no diretorio pocreact e executar o comando a seguir:
 
-***
+```
 npm run dev
-***
+
+```
 
 ![image](https://github.com/user-attachments/assets/12e9474d-8933-481b-b78d-c91d4618d2e7)
 
